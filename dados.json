@@ -1,0 +1,227 @@
+{
+  "titulo": "REPUBLICAR",
+  "descricao": "Produtos e ofertas em destaque.",
+  "site": "republicar.com.br",
+  "ofertas": [
+    {
+      "nome": "Dasa Chromatox",
+      "imagem": "chromatox.png",
+      "descricao": "Criada em 2011, a ChromaTox se tornou o primeiro e mais completo laboratório de Exame Toxicológico com operações no Brasil.",
+      "preco": "",
+      "precoAntigo": "",
+      "loja": "",
+      "link": "https://apretailer.com.br/click/6afcfb022bfa8139c549a8c6/188476/361579/subaccount/republicar",
+      "selo": "Laboratório",
+      "ativo": false
+    },
+    {
+      "nome": "Airalo",
+      "imagem": "airalo.png",
+      "descricao": "Airalo é a primeira e maior loja de eSIM do mundo, com planos de eSIM para mais de 200 países e regiões em todo o mundo. Com os eSIMs Airalo, os viajantes podem se conectar no momento em que chegam ao destino e evitar tarifas desagradáveis ​​de roaming de dados.",
+      "preco": "",
+      "precoAntigo": "",
+      "loja": "",
+      "link": "https://apretailer.com.br/click/6afd0df32bfa81221c5b7aa3/179360/361579/subaccount/republicar",
+      "selo": "Loja de chip de telefone virtual",
+      "ativo": true
+    },
+    {
+      "nome": "Ray-Ban",
+      "imagem": "ray-ban.png",
+      "descricao": "É uma marca global de óculos de sol e de grau, reconhecida por seus designs clássicos e atemporais.",
+      "preco": "",
+      "precoAntigo": "",
+      "loja": "",
+      "link": "https://apretailer.com.br/click/6afd0f512bfa81222256ef02/188782/361579/subaccount/republicar",
+      "selo": "Óculos",
+      "ativo": true
+    },
+    {
+      "nome": "",
+      "imagem": "",
+      "descricao": "",
+      "preco": "",
+      "precoAntigo": "",
+      "loja": "",
+      "link": "",
+      "selo": "",
+      "ativo": false
+    },
+    {
+      "nome": "",
+      "imagem": "",
+      "descricao": "",
+      "preco": "",
+      "precoAntigo": "",
+      "loja": "",
+      "link": "",
+      "selo": "",
+      "ativo": false
+    },
+    {
+      "nome": "",
+      "imagem": "",
+      "descricao": "",
+      "preco": "",
+      "precoAntigo": "",
+      "loja": "",
+      "link": "",
+      "selo": "",
+      "ativo": false
+    },
+    {
+      "nome": "",
+      "imagem": "",
+      "descricao": "",
+      "preco": "",
+      "precoAntigo": "",
+      "loja": "",
+      "link": "",
+      "selo": "",
+      "ativo": false
+    },
+    {
+      "nome": "",
+      "imagem": "",
+      "descricao": "",
+      "preco": "",
+      "precoAntigo": "",
+      "loja": "",
+      "link": "",
+      "selo": "",
+      "ativo": false
+    },
+    {
+      "nome": "",
+      "imagem": "",
+      "descricao": "",
+      "preco": "",
+      "precoAntigo": "",
+      "loja": "",
+      "link": "",
+      "selo": "",
+      "ativo": false
+    },
+    {
+      "nome": "",
+      "imagem": "",
+      "descricao": "",
+      "preco": "",
+      "precoAntigo": "",
+      "loja": "",
+      "link": "",
+      "selo": "",
+      "ativo": false
+    },
+    {
+      "nome": "",
+      "imagem": "",
+      "descricao": "",
+      "preco": "",
+      "precoAntigo": "",
+      "loja": "",
+      "link": "",
+      "selo": "",
+      "ativo": false
+    },
+    {
+      "nome": "",
+      "imagem": "",
+      "descricao": "",
+      "preco": "",
+      "precoAntigo": "",
+      "loja": "",
+      "link": "",
+      "selo": "",
+      "ativo": false
+    },
+    {
+      "nome": "",
+      "imagem": "",
+      "descricao": "",
+      "preco": "",
+      "precoAntigo": "",
+      "loja": "",
+      "link": "",
+      "selo": "",
+      "ativo": false
+    },
+    {
+      "nome": "",
+      "imagem": "",
+      "descricao": "",
+      "preco": "",
+      "precoAntigo": "",
+      "loja": "",
+      "link": "",
+      "selo": "",
+      "ativo": false
+    },
+    {
+      "nome": "",
+      "imagem": "",
+      "descricao": "",
+      "preco": "",
+      "precoAntigo": "",
+      "loja": "",
+      "link": "",
+      "selo": "",
+      "ativo": false
+    },
+    {
+      "nome": "",
+      "imagem": "",
+      "descricao": "",
+      "preco": "",
+      "precoAntigo": "",
+      "loja": "",
+      "link": "",
+      "selo": "",
+      "ativo": false
+    },
+    {
+      "nome": "",
+      "imagem": "",
+      "descricao": "",
+      "preco": "",
+      "precoAntigo": "",
+      "loja": "",
+      "link": "",
+      "selo": "",
+      "ativo": false
+    },
+    {
+      "nome": "",
+      "imagem": "",
+      "descricao": "",
+      "preco": "",
+      "precoAntigo": "",
+      "loja": "",
+      "link": "",
+      "selo": "",
+      "ativo": false
+    },
+    {
+      "nome": "",
+      "imagem": "",
+      "descricao": "",
+      "preco": "",
+      "precoAntigo": "",
+      "loja": "",
+      "link": "",
+      "selo": "",
+      "ativo": false
+    },
+    {
+      "nome": "",
+      "imagem": "",
+      "descricao": "",
+      "preco": "",
+      "precoAntigo": "",
+      "loja": "",
+      "link": "",
+      "selo": "",
+      "ativo": false
+    }
+  ]
+}
